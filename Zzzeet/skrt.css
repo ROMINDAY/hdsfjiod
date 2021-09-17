@@ -1,0 +1,28 @@
+body {
+    
+    background-image: url("rpt_bckrnd.png");
+    background-repeat: repeat;
+    margin: 50px;cm
+}
+
+h1 {
+    color: lime;
+    background-color: black;
+    
+}
+
+
+h2 {
+    color: lime;
+}
+
+#bep {
+    width: 250px;
+    height: 250px;
+    background-image: url("sunoo.png");
+    background-size: contain;
+}
+
+#bep:hover {
+    background-image: url("sno.jpg");
+}
